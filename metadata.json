@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow ",
+  "description": "A professional study timer and analytics dashboard inspired by Yeolpumta, featuring manual canvas-based analytics and local storage persistence.",
+  "requestFramePermissions": []
+}
